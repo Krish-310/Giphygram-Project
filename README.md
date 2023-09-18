@@ -13,5 +13,3 @@ Features:
 - Compatible with native systems 
 - Retains basic functionality while offline
 - Other benefits as well
-
-I followed a tutorial from Udemy on PWAs to make this project.
